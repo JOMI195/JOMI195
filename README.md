@@ -1,5 +1,5 @@
-👋 Hi, I’m Johannes
-🌱 I’m currently studying computer science at the HTWG Konstanz.
+- 👋 Hi, I’m Johannes
+- 🌱 I’m currently studying computer science at the HTWG Konstanz.
 
 <!--
 **JOMI195/JOMI195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
